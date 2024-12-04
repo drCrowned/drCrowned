@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hiya, I'm drCrowned! 😶‍🌫️
+###### also known as leswift, drPiper, drTao, BeeSwift.
 
-<!--
-**drCrowned/drCrowned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🕹️ I'm a programmer who spends his days programming stuff in Roblox. 🎵 I'm also a music producer.
+I also like cats.
 
-Here are some ideas to get you started:
+🖥️ I'm currently working on :
+- Zenless Battlegrounds
+- Rojo-Roblox Studio Workflow Template
+- SCI - Alpha II
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I'm currently looking for part-time jobs.
+
+You can reach me by :
+- 💬 Firing a Direct Message to my Discord account, using the *leswift* username.
+- 📨 Sending a business email to *swiftstdos@gmail.com*
+
+Alrighty now, I'm going to take a nap. Toodles!
