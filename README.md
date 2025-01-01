@@ -1,7 +1,7 @@
 ## Hiya, I'm drCrowned! 😶‍🌫️
-###### also known as leswift, drPiper, drTao, BeeSwift.
+###### also known as leswift, drPiper, drTao.
 
-#### 🕹️ I'm a programmer who spends his days programming stuff in Roblox. 🎵 I'm also a music producer.
+#### 🕹️ I'm a programmer who spends his days programming stuff. 🎵 I'm also a music producer.
 I also like cats.
 
 🖥️ I'm currently working on :
