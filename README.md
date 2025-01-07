@@ -1,4 +1,4 @@
-## Hiya, I'm drCrowned! 😶‍🌫️
+## Hiya, I'm drCrowned! 😶‍🌫️👑
 ###### also known as leswift, drPiper, drTao.
 
 #### 🕹️ I'm a programmer who spends his days programming stuff. 🎵 I'm also a music producer.
