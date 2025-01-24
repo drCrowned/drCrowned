@@ -6,7 +6,6 @@ I also like cats.
 
 🖥️ I'm currently working on :
 - Zenless Battlegrounds
-- Rojo-Roblox Studio Workflow Template
 - SCI - Alpha II
 
 💼 I'm currently looking for part-time jobs.
