@@ -5,9 +5,8 @@
 I also like cats.
 
 🖥️ I'm currently working on :
+- Private CrownedStudios project (to be revealed soon!)
 - Site - Poseidon (and PoseidonTops)
-- Actor System (Zenith)
-- Zenless Battlegrounds
 
 💼 I'm currently looking for part-time jobs.
 
