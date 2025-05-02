@@ -5,6 +5,7 @@
 I also like cats.
 
 🖥️ I'm currently working on :
+- Paragon Research Institute
 - Private CrownedStudios project (to be revealed soon!)
 - Site - Poseidon (and PoseidonTops)
 
