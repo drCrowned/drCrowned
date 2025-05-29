@@ -6,10 +6,10 @@ I also like cats.
 
 🖥️ I'm currently working on :
 - Paragon Research Institute
-- Private CrownedStudios project (to be revealed soon!)
+- Crowned Research Corporation
 - Site - Poseidon (and PoseidonTops)
 
-💼 I'm currently looking for part-time jobs.
+💼 I'm NOT currently looking for part-time jobs. Sorry!
 
 You can reach me by :
 - 💬 Firing a Direct Message to my Discord account, using the *leswift* username.
