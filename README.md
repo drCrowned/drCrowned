@@ -7,6 +7,7 @@ I also like cats.
 🖥️ I'm currently working on :
 - Paragon Research Institute
 - Crowned Research Corporation
+- CRWN//KAT
 - Site - Poseidon (and PoseidonTops)
 
 💼 I'm NOT currently looking for part-time jobs. Sorry!
