@@ -13,10 +13,10 @@ I also like cats.
 
 You want to know my past and current projects, and how they look? Here is my portfolio and talent profile!
 - [Portfolio](https://www.canva.com/design/DAGhFlDjwGg/Em6F41Nx8fbsVps3eNPcJQ/view?utm_content=DAGhFlDjwGg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3fdfff09d0)
-- https://create.roblox.com/talent/creators/924786870
+- [Talent Hub](https://create.roblox.com/talent/creators/924786870)
 
 Or you want to know how I code? Here is my public gist!
-- https://gist.github.com/drCrowned/fda9e15b794ec3a41350a0f676de4fee
+- [Gist](https://gist.github.com/drCrowned/fda9e15b794ec3a41350a0f676de4fee)
 
 You can reach me by :
 - 💬 Firing a Direct Message to my Discord account, using the *leswift* username.
