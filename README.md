@@ -8,7 +8,6 @@ I also like cats.
 - Paragon Research Institute
 - Crowned Research Corporation
 - CRWN//KAT
-- Site - Poseidon (and PoseidonTops)
 
 💼 I'm NOT currently looking for part-time jobs. Sorry!
 
@@ -23,4 +22,4 @@ You can reach me by :
 - 💬 Firing a Direct Message to my Discord account, using the *leswift* username.
 - 📨 Sending a business email to *swiftstdos@gmail.com*
 
-Alrighty now, I'm going to take a nap. Toodles!
+Alright, I'm gonna take a nap.
