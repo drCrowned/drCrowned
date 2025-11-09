@@ -1,11 +1,11 @@
-## Hiya, I'm drCrowned! 😶‍🌫️👑
-###### also known as leswift, drPiper, drTao.
+## Hello, I'm CRXWNED! 👑
+###### also known as drCrowned, drTao, drPiper...
 
 #### 🕹️ I'm a programmer who spends his days programming stuff. 🎵 I'm also a music producer.
 I also like cats.
 
 🖥️ I'm currently working on :
-- Paragon Research Institute
+- SCI - Pathos III
 - Crowned Research Corporation
 - CRWN//KAT
 
@@ -19,7 +19,7 @@ Or you want to know how I code? Here is my public gist!
 - [Gist](https://gist.github.com/drCrowned/fda9e15b794ec3a41350a0f676de4fee)
 
 You can reach me by :
-- 💬 Firing a Direct Message to my Discord account, using the *leswift* username.
+- 💬 Firing a Direct Message to my Discord account, using the *drcrowned* username.
 - 📨 Sending a business email to *swiftstdos@gmail.com*
 
 Alright, I'm gonna take a nap.
