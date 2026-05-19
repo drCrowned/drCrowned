@@ -5,9 +5,7 @@
 I also like cats.
 
 🖥️ I'm currently working on :
-- SCI - Pathos III
-- Crowned Research Corporation
-- CRWN//KAT
+- SCP retroBREACH
 
 💼 I'm NOT currently looking for part-time jobs. Sorry!
 
